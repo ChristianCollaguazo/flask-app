@@ -1,0 +1,8 @@
+Flask
+Flask-Bootstrap4
+Flask-WTF
+Flask-Testing
+blinker
+firebase-admin
+flask-login
+gunicorn
